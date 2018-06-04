@@ -8,8 +8,10 @@
 401,0,'Nelson Airport',4
 1001,0,'Balfour',10
 1000,0,'Nelson',10
-1400,0,'Blewett',14
-1500,0,'Perrier',15
+1401,0,'Blewett',14
+1400,0,'Downtown',14
+1500,0,'Downtown',15
+1501,0,'Perrier',15
 2000,0,'Playmor Jct',20
 2001,0,'Slocan City',20
 3100,0,'Comm Complex',31
@@ -18,9 +20,12 @@
 3201,0,'Robson',32
 3300,0,'Comm Complex',33
 3301,0,'Selkirk Coll',33
-3400,0,'Kinnaird',34
-3601,0,'Ootischenia',36
-3800,0,'Playmor',38
+3400,0,'Comm Complex',34
+3401,0,'Kinnaird',34
+3601,0,'Bridgeview Cr',36
+3600,0,'Comm Complex',36
+3800,0,'Downtown',38
+3801,0,'Playmor',38
 4101,0,'Binns',41
 4200,0,'Columbia Hgts',42
 4300,0,'Fruitvale',43
