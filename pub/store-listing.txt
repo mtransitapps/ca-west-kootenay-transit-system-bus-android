@@ -5,7 +5,7 @@ West Kootenay TS buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from April 5, 2019 to September 1, 2019.
+Schedule from August 2, 2019 to September 6, 2020.
 Tweets from @BCTransit.
 ----------
 Full description:
