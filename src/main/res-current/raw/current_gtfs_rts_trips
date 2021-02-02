@@ -1,55 +1,40 @@
-100,0,'Downtown',1
 101,0,'Uphill',1
-200,0,'Downtown',2
-201,0,'Fairview',2
-300,0,'Downtown',3
-301,0,'Rosemont',3
-400,0,'Downtown',4
-401,0,'Nelson Airport',4
+200,0,'Fairview',2
+301,0,'1 Uphill',3
+401,0,'Lakeside Dr @ Airport',4
+400,0,'Ward St @ Baker St',4
 1001,0,'Balfour',10
 1000,0,'Nelson',10
-1401,0,'Blewett',14
-1400,0,'Downtown',14
-1500,0,'Downtown',15
-1501,0,'Perrier',15
-2000,0,'Playmor Jct',20
-2001,0,'Slocan City',20
+1400,0,'Blewett',14
+1500,0,'Perrier',15
+2000,0,'Playmor & Perry''s / Playmor Jct',20
+2001,0,'Slocan & Perry''s',20
+3101,0,'32 Columbia / Downtown',31
 3100,0,'Comm Complex',31
-3101,0,'Downtown',31
 3200,0,'Comm Complex',32
 3201,0,'Robson',32
-3300,0,'Comm Complex',33
+3300,0,'98 Trail / Comm Complex',33
 3301,0,'Selkirk Coll',33
-3400,0,'Comm Complex',34
-3401,0,'Kinnaird',34
-3601,0,'Bridgeview Cr',36
-3600,0,'Comm Complex',36
-3800,0,'Downtown',38
-3801,0,'Playmor',38
-4100,0,'Cedar & Spokane',41
-4101,0,'Nelson & Birch',41
-4200,0,'Cedar & Spokane',42
-4201,0,'Daniel & End',42
+3400,0,'Kinnaird',34
+3601,0,'Comm Complex',36
+3800,0,'Playmor',38
+4101,0,'Binns',41
+4200,0,'Columbia Hgts',42
 4300,0,'Fruitvale',43
 4301,0,'Trail',43
-4400,0,'Cedar & Spokane',44
 4401,0,'Sunningdale',44
-4500,0,'Cedar & Spokane',45
-4501,0,'Warfield Plant',45
+4500,0,'Teck',45
 4601,0,'Rossland',46
 4600,0,'Trail',46
-4800,0,'Fruitvale',48
-4801,0,'Red Mountain',48
-5101,0,'Hot Spgs',51
-5100,0,'Nakusp',51
+4801,0,'AM',48
+4800,0,'PM',48
+5100,0,'Hot Spgs',51
 5200,0,'Nakusp',52
 5201,0,'Slocan',52
 5301,0,'Edgewood',53
 5300,0,'Nakusp',53
-5700,0,'Seniors Hall',57
-5701,0,'Shutty Bench',57
+5700,0,'Kaslo Local',57
 5801,0,'Argenta',58
-5800,0,'Kaslo',58
 7200,0,'Nelson',72
 7201,0,'Salmo',72
 7400,0,'Nakusp',74

@@ -1,4 +1,4 @@
-'WKT2009-2009SA-Saturday-01',2001,60900,,'',50000,0,'Slocan & Perry's',44400,0,'Slocan & Perry's',20300,0,'Slocan & Perry's'
-'WKT2009-2009SA-Saturday-02',2001,60900,,'',50000,0,'Slocan & Perry's',44400,0,'Slocan & Perry's',20300,0,'Slocan & Perry's'
-'WKT2009-2009WK-Weekday-01',2001,53000,,'',22200,,'',37000,,'',53700,0,'Slocan & Perry's',15700,0,'Slocan & Perry's'
+'WKT2009-2009SA-Saturday-01',2001,60900,0,'Slocan City',50000,,'',44400,,'',20300,,''
+'WKT2009-2009SA-Saturday-02',2001,60900,0,'Slocan City',50000,,'',44400,,'',20300,,''
+'WKT2009-2009WK-Weekday-01',2001,53000,0,'Slocan City',22200,0,'Slocan City',37000,0,'Slocan City',53700,,'',15700,,''
 'WKT2009-2009WK-Weekday-01-0101000',7400,165000,,''
