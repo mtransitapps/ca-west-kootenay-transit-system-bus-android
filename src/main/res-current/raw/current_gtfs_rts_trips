@@ -1,4 +1,4 @@
-101,0,'Uphill',1
+101,0,'Hosp Only',1
 200,0,'Fairview',2
 301,0,'1 Uphill',3
 401,0,'Lakeside Dr @ Airport',4
@@ -8,7 +8,7 @@
 1400,0,'Blewett',14
 1500,0,'Perrier',15
 2000,0,'Playmor & Perry''s / Playmor Jct',20
-2001,0,'Slocan & Perry''s',20
+2001,0,'Slocan & Perry''s / Slocan City',20
 3101,0,'32 Columbia / Downtown',31
 3100,0,'Comm Complex',31
 3200,0,'Comm Complex',32
@@ -22,7 +22,7 @@
 4200,0,'Columbia Hgts',42
 4300,0,'Fruitvale',43
 4301,0,'Trail',43
-4401,0,'Sunningdale',44
+4401,0,'KBR Hosp Only',44
 4500,0,'Teck',45
 4601,0,'Rossland',46
 4600,0,'Trail',46
