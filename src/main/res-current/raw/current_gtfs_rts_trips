@@ -9,11 +9,11 @@
 1500,0,'Perrier',15
 2000,0,'Playmor & Perry''s / Playmor Jct',20
 2001,0,'Slocan & Perry''s / Slocan City',20
-3101,0,'32 Columbia / Downtown',31
 3100,0,'Comm Complex',31
+3101,0,'Downtown',31
 3200,0,'Comm Complex',32
 3201,0,'Robson',32
-3300,0,'98 Trail / Comm Complex',33
+3300,0,'98 Trail',33
 3301,0,'Selkirk Coll',33
 3400,0,'Kinnaird',34
 3601,0,'Comm Complex',36
@@ -22,12 +22,10 @@
 4200,0,'Columbia Hgts',42
 4300,0,'Fruitvale',43
 4301,0,'Trail',43
-4401,0,'KBR Hosp Only',44
+4401,0,'Sunningdale',44
 4500,0,'Teck',45
 4601,0,'Rossland',46
 4600,0,'Trail',46
-4801,0,'AM',48
-4800,0,'PM',48
 5100,0,'Hot Spgs',51
 5200,0,'Nakusp',52
 5201,0,'Slocan',52
