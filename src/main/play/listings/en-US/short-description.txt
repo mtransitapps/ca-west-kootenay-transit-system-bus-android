@@ -1,2 +1,1 @@
-West Kootenay TS buses for MonTransit.
-Schedule. Alerts. News.
+West Kootenay Transit System buses for MonTransit. Schedule. Alerts. News.
