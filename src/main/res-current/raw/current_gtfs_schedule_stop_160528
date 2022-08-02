@@ -1,4 +1,3 @@
-'WKT2109-2109SA-Saturday-00',2001,61000,0,'Slocan City'
-'WKT2109-2109SA-Saturday-01',2001,61000,0,'Slocan City'
-'WKT2109-2109WK-Weekday-00',2001,53100,0,'Slocan City',22200,0,'Slocan City',37000,0,'Slocan City'
-'WKT2109-2109WK-Weekday-02',2001,53100,0,'Slocan City',22200,0,'Slocan City',37000,0,'Slocan City'
+'WKT2205-2205SA-Saturday-01',2001,61000,,''
+'WKT2205-2205WK-Weekday-01',2001,53100,,'',22200,,'',37000,,''
+'WKT2205-2205WK-Weekday-01-0101000',7400,165100,,''
