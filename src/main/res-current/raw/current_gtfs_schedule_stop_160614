@@ -1,6 +1,6 @@
-'WKT2209-2209SA-Saturday-00',1001,103500,0,'Balfour',50100,0,'Balfour',36400,0,'Balfour'
-'WKT2209-2209SA-Saturday-01',1001,103500,0,'Balfour',50100,0,'Balfour',36400,0,'Balfour'
-'WKT2209-2209WK-Weekday-00',1001,85500,0,'Balfour',36000,0,'Balfour',14100,0,'Balfour',26200,0,'6 Mile Only',9700,,'',14200,0,'Balfour',19300,0,'Balfour'
-'WKT2209-2209WK-Weekday-01',1001,85500,0,'Balfour',36000,0,'Balfour',14100,0,'Balfour',26200,0,'6 Mile Only',9700,,'',14200,0,'Balfour',19300,0,'Balfour'
-'WKT2209-2209WK-Weekday-00-0100000',7600,101400,,''
-'WKT2209-2209WK-Weekday-01-0100000',7600,101400,,''
+'WKT2209-2209SA-Saturday-00',1001,103500,0,'Balfour',0,50100,0,'Balfour',0,36400,0,'Balfour',0
+'WKT2209-2209SA-Saturday-01',1001,103500,0,'Balfour',0,50100,0,'Balfour',0,36400,0,'Balfour',0
+'WKT2209-2209WK-Weekday-00',1001,85500,0,'Balfour',0,36000,0,'Balfour',0,14100,0,'Balfour',0,26200,0,'6 Mile Only',0,9700,,'',0,14200,0,'Balfour',0,19300,0,'Balfour',0
+'WKT2209-2209WK-Weekday-01',1001,85500,0,'Balfour',0,36000,0,'Balfour',0,14100,0,'Balfour',0,26200,0,'6 Mile Only',0,9700,,'',0,14200,0,'Balfour',0,19300,0,'Balfour',0
+'WKT2209-2209WK-Weekday-00-0100000',7600,101400,,'',0
+'WKT2209-2209WK-Weekday-01-0100000',7600,101400,,'',0
