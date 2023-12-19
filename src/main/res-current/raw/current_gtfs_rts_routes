@@ -1,31 +1,31 @@
-1,'1','Uphill','0C4E8C'
-2,'2','Fairview','8EC641'
-3,'3','Rosemont','F78B21'
-4,'4','Nelson Airport','8177B7'
-10,'10','North Shore','E8C734'
-14,'14','Blewett','F399C0'
-15,'15','Perrier','BC4F67'
-20,'20','Slocan Valley','29ABE2'
-31,'31','North Castlegar','FAA74A'
-32,'32','Columbia','90288C'
-33,'33','Selkirk','B3AA7E'
-34,'34','Kinnaird/Southridge','76AD99'
-36,'36','Ootischenia','875E9F'
-38,'38','Playmor Via Pass Creek','5E86A0'
-41,'41','Binns','00B5AD'
-42,'42','Columbia Heights','7C3F24'
-43,'43','Glenmerry/Fruitvale','DC7126'
-44,'44','Sunningdale','05A84D'
-45,'45','Teck','8178B8'
-46,'46','Rossland','BF83B9'
-48,'48','Red Mountain Ski Bus','056937'
-51,'51','Nakusp-Hot Springs','E370AB'
-52,'52','Nakusp-Playmor Via Silverton','B1BB35'
-53,'53','Nakusp-Edgewood','0073AF'
-57,'57','Kaslo Local','8D173C'
-58,'58','Kaslo-Argenta','EC1A8D'
-72,'72','Salmo-Nelson Via Ymir','A54399'
-74,'74','Nakusp-Nelson','AF6E0E'
-76,'76','Kaslo-Nelson','4F6F19'
-98,'98','Columbia Connector','4D4D4F'
-99,'99','Kootenay Connector','5D86A0'
+1,'1','Uphill','0C4E8C',-1830973579,3
+2,'2','Fairview','8EC641',1958435092,3
+3,'3','Rosemont','F78B21',1452876467,3
+4,'4','Nelson Airport','8177B7',947317842,3
+10,'10','North Shore','E8C734',-469820345,3
+14,'14','Blewett','F399C0',1802912451,3
+15,'15','Perrier','BC4F67',1297353826,3
+20,'20','Slocan Valley','29ABE2',1037731464,3
+31,'31','North Castlegar','FAA74A',2039724648,3
+32,'32','Columbia','90288C',1534166023,3
+33,'33','Selkirk','B3AA7E',1028607398,3
+34,'34','Kinnaird/Southridge','76AD99',523048773,3
+36,'36','Ootischenia','875E9F',-488068477,3
+38,'38','Playmor Via Pass Creek','5E86A0',-1499185727,3
+41,'41','Binns','00B5AD',-747690839,3
+42,'42','Columbia Heights','7C3F24',-1253249464,3
+43,'43','Glenmerry/Fruitvale','DC7126',-1758808089,3
+44,'44','Sunningdale','05A84D',2030600582,3
+45,'45','Teck','8178B8',1525041957,3
+46,'46','Rossland','BF83B9',1019483332,3
+48,'48','Red Mountain Ski Bus','056937',8366082,3
+51,'51','Nakusp-Hot Springs','E370AB',759860970,3
+52,'52','Nakusp-Playmor Via Silverton','B1BB35',254302345,3
+53,'53','Nakusp-Edgewood','0073AF',-251256280,3
+57,'57','Kaslo Local','8D173C',2021476516,3
+58,'58','Kaslo-Argenta','EC1A8D',1515917891,3
+72,'72','Salmo-Nelson Via Ymir','A54399',-1025561333,3
+74,'74','Nakusp-Nelson','AF6E0E',-2036678583,3
+76,'76','Kaslo-Nelson','4F6F19',1247171463,3
+98,'98','Columbia Connector','4D4D4F',-1043809465,3
+99,'99','Kootenay Connector','5D86A0',-1549368090,3
