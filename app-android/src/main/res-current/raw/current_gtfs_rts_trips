@@ -5,11 +5,11 @@
 300,0,'Downtown',3
 400,0,'Downtown',4
 401,0,'Lakeside Dr West',4
-1001,0,'Balfour',10
+1001,0,'Balfour Exp',10
 1000,0,'Nelson',10
 1400,0,'Blewett',14
 1500,0,'Perrier',15
-2000,0,'Nelson -',20
+2000,0,'Nelson',20
 2001,0,'Slocan Vly',20
 3101,0,'32 Columbia / Downtown',31
 3100,0,'North Castlegar - Comm Complex',31
@@ -22,14 +22,12 @@
 3800,0,'Playmor -',38
 4101,0,'Binns',41
 4200,0,'Columbia Hgts',42
-4300,0,'Fruitvale -',43
+4300,0,'Fruitvale',43
 4301,0,'Trail -',43
 4401,0,'KBR Hosp Only',44
 4500,0,'Teck',45
 4601,0,'Rossland',46
 4600,0,'Trail',46
-4801,0,'AM',48
-4800,0,'PM',48
 5100,0,'Nakusp Hot Spgs',51
 5200,0,'Nakusp -',52
 5201,0,'Slocan -',52
