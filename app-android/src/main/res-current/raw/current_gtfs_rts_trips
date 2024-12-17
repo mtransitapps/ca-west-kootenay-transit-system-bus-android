@@ -5,25 +5,25 @@
 300,0,'Downtown',3
 400,0,'Downtown',4
 401,0,'Lakeside Dr West',4
-1001,0,'Balfour Exp',10
+1001,0,'Balfour Express',10
 1000,0,'Nelson',10
 1400,0,'Blewett',14
 1500,0,'Perrier',15
 2000,0,'Nelson',20
 2001,0,'Slocan Vly',20
 3101,0,'32 Columbia / Downtown',31
-3100,0,'North Castlegar - Comm Complex',31
-3200,0,'Comm Complex',32
+3100,0,'Community Complex',31
+3200,0,'Community Complex',32
 3201,0,'Robson',32
-3300,0,'Comm Complex',33
-3301,0,'Selkirk Coll',33
+3300,0,'Community Complex',33
+3301,0,'Selkirk College',33
 3400,0,'Kinnaird',34
-3601,0,'Comm Complex',36
-3800,0,'Playmor -',38
+3601,0,'Community Complex',36
+3800,0,'Playmor',38
 4101,0,'Binns',41
 4200,0,'Columbia Hgts',42
 4300,0,'Fruitvale',43
-4301,0,'Trail -',43
+4301,0,'Trail',43
 4401,0,'KBR Hosp Only',44
 4500,0,'Teck',45
 4601,0,'Rossland',46
@@ -41,7 +41,7 @@
 7401,0,'Nelson',74
 7600,0,'Kaslo',76
 7601,0,'Nelson',76
-9800,0,'Castlegar - Selkirk College',98
+9800,0,'Castlegar',98
 9801,0,'Trail',98
 9901,0,'Castlegar - Selkirk College',99
 9900,0,'Nelson',99
