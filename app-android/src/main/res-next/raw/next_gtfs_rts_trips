@@ -1,13 +1,15 @@
-101,0,'Uphill',1
+101,0,'Downtown',1
+100,0,'Uphill',1
 200,0,'Downtown',2
 201,0,'Fairview',2
 301,0,'1 Uphill',3
 300,0,'Downtown',3
 400,0,'Downtown',4
 401,0,'Lakeside Dr West',4
-1001,0,'Balfour',10
-1000,0,'Nelson',10
-1400,0,'Blewett',14
+1000,0,'Balfour',10
+1001,0,'Nelson',10
+1401,0,'Blewett',14
+1400,0,'Nelson',14
 1500,0,'Perrier',15
 2000,0,'Nelson',20
 2001,0,'Slocan Vly',20
@@ -25,11 +27,12 @@
 4300,0,'Fruitvale',43
 4301,0,'Trail',43
 4401,0,'Sunningdale',44
+4400,0,'Trail',44
 4500,0,'Teck',45
 4601,0,'Rossland',46
 4600,0,'Trail',46
-4801,0,'AM',48
-4800,0,'PM',48
+4800,0,'Fruitvale',48
+4801,0,'Red Mtn',48
 5100,0,'Nakusp Hot Spgs',51
 5200,0,'Nakusp -',52
 5201,0,'Slocan -',52
@@ -47,3 +50,9 @@
 9801,0,'Trail',98
 9901,0,'Castlegar - Selkirk College',99
 9900,0,'Nelson',99
+18000200,0,'Downtown - Reverse Route',180002
+18000201,0,'Fairview - Reverse Route',180002
+24001000,0,'Balfour Express',240010
+24001001,0,'Nelson Express',240010
+24004300,0,'Fruitvale',240043
+24004301,0,'Trail',240043
