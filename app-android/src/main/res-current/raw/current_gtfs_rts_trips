@@ -1,5 +1,5 @@
 100,0,'Downtown',1
-201,0,'LVR Express',2
+201,0,'Downtown',2
 301,0,'1 Uphill / Downtown',3
 400,0,'Downtown',4
 401,0,'Lakeside Dr West',4
@@ -23,7 +23,7 @@
 4401,0,'Trail',44
 4500,0,'Teck',45
 4601,0,'Rossland',46
-4600,0,'School Special',46
+4600,0,'Trail',46
 5100,0,'Nakusp Hot Spgs',51
 5200,0,'Nakusp -',52
 5201,0,'Slocan -',52
