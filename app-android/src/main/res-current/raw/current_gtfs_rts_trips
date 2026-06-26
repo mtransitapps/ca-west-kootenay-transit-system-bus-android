@@ -24,7 +24,6 @@
 4500,0,'Teck',45
 4601,0,'Rossland',46
 4600,0,'School Special',46
-5100,0,'Nakusp Hot Spgs',51
 5200,0,'Nakusp -',52
 5201,0,'Slocan -',52
 5301,0,'Edgewood',53
@@ -35,8 +34,8 @@
 7201,0,'Salmo -',72
 7400,0,'Nakusp',74
 7401,0,'Nelson',74
+7601,0,'Balfour Only',76
 7600,0,'Kaslo',76
-7601,0,'Nelson',76
 9800,0,'Castlegar',98
 9801,0,'Trail',98
 9901,0,'Castlegar - Selkirk College',99
